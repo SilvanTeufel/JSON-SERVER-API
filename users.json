@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "eMail": "admin",
+      "password": "wtf"
+    },
+    {
+      "eMail": "public",
+      "password": "wtf"
+    },
+    {
+      "eMail": "bruno@email.com",
+      "password": "bruno"
+    },
+    {
+      "eMail": "nilson@email.com",
+      "password": "nilson"
+    },
+    {
+      "eMail": "silvi@email.com",
+      "password": "silvi"
+    },
+    {
+      "eMail": "frank@email.com",
+      "password": "frank"
+    },
+    {
+      "eMail": "hans@email.com",
+      "password": "hans"
+    },
+    {
+      "eMail": "wurst@email.com",
+      "password": "wurst"
+    },
+    {
+      "eMail": "bla@email.com",
+      "password": "bla"
+    },
+    {
+      "eMail": "hans",
+      "password": "hans"
+    },
+    {
+      "eMail": "peterlustig@email.com",
+      "password": "peterlustig"
+    },
+    {
+      "eMail": "wtf@email.com",
+      "password": "wtf"
+    },
+    {
+      "eMail": "hoden@email.com",
+      "password": "hoden"
+    },
+    {
+      "eMail": "test@email.com",
+      "password": "test"
+    },
+    {
+      "eMail": "manuel@email.com",
+      "password": "manuel"
+    },
+    {
+      "eMail": "franzi@email.com",
+      "password": "franzi"
+    },
+    {
+      "eMail": "teufelsilvan@gmail.com",
+      "password": "wtf"
+    }
+  ]
+}
